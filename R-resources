@@ -1,0 +1,23 @@
+R Resources
+
+R Resources
+swirl: learn R interactively from within the R console.
+*http://swirlstats.com/
+R reference card (PDF) by Tom Short (more can be found under Short Documents and Reference Cards here)
+*http://cran.r-project.org/doc/contrib/Short-refcard.pdf
+*http://cran.r-project.org/other-docs.html
+Quick-R: quick online reference for data input, basic statistics and plots 
+*http://www.statmethods.net/
+Thomas Girke's R & Bioconductor manuals
+*http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual
+R programming class on Coursera,  taught by Roger Peng, Jeff Leek and Brian Caffo
+*https://www.coursera.org/course/rprog
+The free "try R" class from Code School is also a good place to start: http://tryr.codeschool.com/
+*http://tryr.codeschool.com/
+Data structures summary by Hadley Whickham
+*http://adv-r.had.co.nz/Data-structures.html
+
+R books
+Software for Data Analysis: Programming with R (Statistics and Computing) by John M. Chambers (Springer)
+S Programming (Statistics and Computing) by Brian D. Ripley and William N. Venables (Springer)
+Programming with Data: A Guide to the S Language by John M. Chambers (Springer)
