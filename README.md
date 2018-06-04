@@ -1,4 +1,4 @@
 # hello-world
 My first repository at GitHub
 
-I am still lerning but looking forward to write beyond my own account :)
+I am still learning and looking forward to write beyond my own account :)
